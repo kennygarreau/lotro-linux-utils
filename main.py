@@ -1,7 +1,7 @@
-from plugin-installer import run as install_plugins
-from add-to-keyring import run as add_credentials
-from update-music-db import run as update_music
-from lotro-multibox import run as start_multibox
+from plugin_installer import run as install_plugins
+from add_to_keyring import run as add_credentials
+from update_music_db import run as update_music
+from lotro_multibox import run as start_multibox
 
 def menu():
     while True:
