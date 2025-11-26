@@ -13,6 +13,7 @@ python3 main.py
 
 - Setting up keychains / credential stores for multibox auto-login
 - User-customizable multibox parameters (characters, keystore, etc.)
+- Silent install option for plugins (when plugin dirs have been defined in a previous run)
 
 ## Testing
 
